@@ -19,5 +19,4 @@ class Dog:
 ````
 
 #### &emsp;&emsp;**方法__init__()**
-<font face="黑体" color=red size=5>这是红色黑体5号字</font>
 <span style="color:red;"><p align="right">**[concept-091-001]**</p></span>
